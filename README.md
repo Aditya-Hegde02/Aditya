@@ -5,10 +5,7 @@
 - 🌱 I’m currently learning **Java,AIML,**
 
 - 📫 How to reach me **aditya.i.hegde02@gmail.com**
-
-<p>
-  
-</p>
+&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
