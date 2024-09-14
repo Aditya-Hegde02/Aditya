@@ -20,16 +20,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
          <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LaTeX-Dark.svg" alt="LaTeX" width="40" height="40"/> </a>
-            
-            <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LaTeX-Dark.svg" alt="LaTeX" width="40" height="40"/> 
+         
+ </a><a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AfterEffects.svg" alt="After Effects" width="40" height="40"/> </a>
                 
         
-                <a href="https://www.adobe.com/in/products/premiere/campaign/pricing.html?gclid=CjwKCAjw6JS3BhBAEiwAO9waF3EoSt-QzmJUHBttQfRpov19N6X80UDnYG0171u_fEMIiA8KCzTgMBoCVL0QAvD_BwE&sdid=M3T3SPSL&mv=search&mv2=paidsearch&ef_id=CjwKCAjw6JS3BhBAEiwAO9waF3EoSt-QzmJUHBttQfRpov19N6X80UDnYG0171u_fEMIiA8KCzTgMBoCVL0QAvD_BwE:G:s&s_kwcid=AL!3085!3!697523072126!b!!g!!adobe%20premiere!221168948!95369508713&gad_source=1" target="_blank" rel="noreferrer"> 
+ <a href="https://www.adobe.com/in/products/premiere/campaign/pricing.html?gclid=CjwKCAjw6JS3BhBAEiwAO9waF3EoSt-QzmJUHBttQfRpov19N6X80UDnYG0171u_fEMIiA8KCzTgMBoCVL0QAvD_BwE&sdid=M3T3SPSL&mv=search&mv2=paidsearch&ef_id=CjwKCAjw6JS3BhBAEiwAO9waF3EoSt-QzmJUHBttQfRpov19N6X80UDnYG0171u_fEMIiA8KCzTgMBoCVL0QAvD_BwE:G:s&s_kwcid=AL!3085!3!697523072126!b!!g!!adobe%20premiere!221168948!95369508713&gad_source=1" target="_blank" rel="noreferrer"> 
                     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Premiere.svg" alt="Premiere Pro" width="40" height="40"/> </a>
         
-                    <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> 
+ <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> 
                         <img src="https://gitlab.com/uploads/-/system/project/avatar/3472737/inkscape.png" alt="Inkscape" width="40" height="40"/> </a>
                     
 
