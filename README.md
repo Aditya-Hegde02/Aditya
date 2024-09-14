@@ -34,4 +34,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aditya-hegde02&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Aditya-Hegde02/Aditya/44f4619a7028c58334d51b538c6adc7cd1dfa575/snake.svg" alt="Snake animation" />
+
+
