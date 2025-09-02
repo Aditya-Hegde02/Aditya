@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **Java,AIML,**
+- 🌱 I’m currently learning **Java,Python,C++**
 
 - 📫 How to reach me **aditya.i.hegde02@gmail.com**
 
